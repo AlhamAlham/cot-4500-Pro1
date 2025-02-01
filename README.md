@@ -10,7 +10,7 @@ This project implements four numerical root-finding algorithms in Python:
 Each algorithm follows the specifications given in Chapter 2 of the course material.
 
 ## Repository Structure
-cot-4500-Pro1/\ 
+cot-4500-Pro1/\\ 
 │-- src/ \
 │ │-- main/ \
 │ │ │-- init.py \
