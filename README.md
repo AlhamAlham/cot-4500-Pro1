@@ -25,6 +25,6 @@ cot-4500-Pro1/
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/cot-4500-Pro1.git
+git clone https://github.com/AlhamAlham/cot-4500-Pro1
 cd cot-4500-Pro1
 
