@@ -46,4 +46,3 @@ python -m unittest discover src/test
 ### **Usage**
 The root-finding algorithms can be used by calling the corresponding functions in assignment_1.py.
 Example usage and further details on the implementation can be found in the code comments.
-To
